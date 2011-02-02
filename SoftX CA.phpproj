@@ -1,0 +1,120 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+}
+"Configurations"
+{
+    "Local|PHP 5"
+    {
+    "IncludeDirs" = ""
+    }
+    "Staging|PHP 5"
+    {
+    "IncludeDirs" = ""
+    }
+    "Production|PHP 5"
+    {
+    "IncludeDirs" = ""
+    }
+}
+"Files"
+{
+    "LICENSE"
+    {
+    "ProjRelPath" = "T"
+    }
+    "SoftX CA.intellisense.cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template\\default"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\img01.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "style.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\img07.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "nav.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\img02.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template"
+    {
+    "ProjRelPath" = "T"
+    }
+    "include\\init.inc"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template\\default\\header.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "header.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "include\\openssl.cnf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\img04.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "README"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template\\header.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "config.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "include"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\img03.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    ".vsphpignore"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}

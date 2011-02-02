@@ -1,0 +1,3 @@
+SoftX CA, a web application to manage a certificate authority.
+Simple, all you need is to tell us the CA certificate and private
+key and we'll let you manage every single request your users made.
